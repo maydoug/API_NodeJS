@@ -6,9 +6,7 @@
 
 <p>Deploy da API realizada no Heroku, junto com a aplicação frontend desenvolvida em react:</p>
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://freedevs.herokuapp.com/)
-
-https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
+[![VEJA O PROJETO]()](http://freedevs.herokuapp.com/)
 
 
 
