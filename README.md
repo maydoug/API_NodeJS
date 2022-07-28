@@ -6,7 +6,7 @@
 
 <p>Deploy da API realizada no Heroku, junto com a aplicação frontend desenvolvida em react:</p>
 
-[![VEJA O PROJETO]()](http://freedevs.herokuapp.com/)
+* [VEJA O PROJETO](http://freedevs.herokuapp.com/)
 
 
 
